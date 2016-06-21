@@ -43,7 +43,7 @@ l_french:
  ARMY_SORT_SIZE:0 "Taille"
  ARMY_SORT_TYPE:0 "Type"
  ARMY_SORT_THEATRE:0 "Groupe d'Armée"
- UNASSIGNED_UNIT_DESCRIPTION:1 "These units are unassigned. Right-click an existing army or create a new one to assign them."
+ UNASSIGNED_UNIT_DESCRIPTION:1 "Ces unités ne sont pas affectées. Faites un clic droit sur une armée existante ou créez-en une nouvelle pour les y affecter."
  ARMY_SORT_GROUP:0 "Armée"
  ARMY_SORT_REGION:0 "Zone"
  ARMY_SORT_BASE:0 "Base aérienne"
